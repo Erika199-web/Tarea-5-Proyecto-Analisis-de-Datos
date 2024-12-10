@@ -1,0 +1,7 @@
+﻿# ANALISIS DE DATOS - Tarea 5 Proyecto Análisis de Datos
+![Logo UNAD](https://datateca.unad.edu.co/contenidos/publicaciones/Comunicaciones_VIMEP/course-images/GENERAL/es/logoUNAD-HD.webp)
+
+## Descripción
+El propósito principal de este proyecto es aplicar y evaluar algoritmos de aprendizaje supervisado utilizando el conjunto de datos Titanic-Dataset, con el objetivo de desarrollar modelos predictivos que permitan realizar análisis detallados y generar predicciones confiables sobre la supervivencia de los pasajeros del Titanic. A través de técnicas de modelado predictivo, como la regresión logística y la clasificación, se busca identificar patrones y relaciones en los datos que puedan explicar los factores que influyen en la probabilidad de supervivencia. Este enfoque no solo permite predecir la supervivencia en función de variables como la clase del boleto, la edad, el género y otros factores demográficos, sino que también proporciona una base sólida para explorar la aplicabilidad de modelos de aprendizaje automático en datos históricos. El proyecto incluye un proceso de limpieza de datos, manejo de valores atípicos e imputación de datos faltantes, asegurando que el análisis se realice sobre un conjunto de datos limpio y consistente. Además, se evaluarán los modelos utilizando métricas como la precisión, recall, F1-score y AUC, lo que permitirá una evaluación objetiva de su desempeño y capacidad de generalización en datos no vistos.
+
+## Erika_Muñoz
